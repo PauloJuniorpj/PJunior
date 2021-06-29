@@ -1,5 +1,5 @@
 # PJ
-falando um pouco sobre mim 
+Falando um pouco sobre mim. 
 Ola, meu nome é Paulo Rogerio Alves Fernandes Junior 👋
 Um pouco sobre mim
 👨‍🎓 Graduando em Analise Desenvolvimento de Sistema 
